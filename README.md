@@ -3,3 +3,4 @@ just another repository
 new
 newer
 even newer
+:smile:
